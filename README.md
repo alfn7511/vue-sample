@@ -22,6 +22,3 @@ npm run build
 ```
 배포용 build. `/dist`폴더에 배포용으로 빌드된 파일이 만들어 집니다.
 
-
-## Login
-ID: admin / PW: !admin1234
